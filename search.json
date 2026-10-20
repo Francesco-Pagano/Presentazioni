@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "lezione_1.html#benvenuti",
+    "href": "lezione_1.html#benvenuti",
+    "title": "Meteo - Lezione 1",
+    "section": "Benvenuti",
+    "text": "Benvenuti\nQuesta è la prima slide creata in Quarto. Usa le frecce della tastiera per navigare."
+  },
+  {
+    "objectID": "lezione_1.html#latex-esempio",
+    "href": "lezione_1.html#latex-esempio",
+    "title": "Meteo - Lezione 1",
+    "section": "LaTeX (esempio)",
+    "text": "LaTeX (esempio)\nEcco una formula in linea: \\(E = mc^2\\)\nFormula in blocco (per le dimostrazioni):\n\\[\nf(x) = \\int_{-\\infty}^{\\infty} \\hat{f}(\\xi)\\,e^{2 \\pi i \\xi x} \\,d\\xi\n\\]"
+  },
+  {
+    "objectID": "lezione_1.html#slide-vuota",
+    "href": "lezione_1.html#slide-vuota",
+    "title": "Meteo - Lezione 1",
+    "section": "Slide vuota",
+    "text": "Slide vuota"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Benvenuto",
+    "section": "",
+    "text": "Le mie presentazioni divise per progetti.\n\nMeteo: Introduzione\n\nLezione 1: La mia prima slide"
+  }
+]
