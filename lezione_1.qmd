@@ -1,0 +1,29 @@
+---
+title: "Meteo - Lezione 1"
+author: "Francesco Pagano"
+format: 
+  revealjs:
+    theme: dark
+    transition: slide
+    slide-number: true
+---
+
+## Benvenuti
+
+Questa è la prima slide creata in **Quarto**.
+Usa le frecce della tastiera per navigare.
+
+---
+
+## LaTeX (esempio)
+Ecco una formula in linea: $E = mc^2$
+
+Formula in blocco (per le dimostrazioni):
+
+$$
+f(x) = \int_{-\infty}^{\infty} \hat{f}(\xi)\,e^{2 \pi i \xi x} \,d\xi
+$$
+
+---
+
+## Slide vuota

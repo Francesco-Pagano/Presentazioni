@@ -1,0 +1,8 @@
+---
+title: "Benvenuto"
+---
+
+Le mie presentazioni divise per progetti.
+
+### Meteo: Introduzione
+* [Lezione 1: La mia prima slide](lezione_1.qmd)
